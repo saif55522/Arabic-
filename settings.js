@@ -144,7 +144,7 @@ global.plink = process.env.PLINK || "https://www.instagram.com/@techlord01"
 
 //------------------[ WATERMARK ]--------------------//
 
-global.wm = process.env.GL_WM || "> ©Jinwoo bot"
+global.wm = process.env.GL_WM || "بوت اެݪـقِـاެضِـيَ|𝐴𝐿𝑄𝐴𝐷𝑌 𖣩:-) §"
 
 //---------------------[ REPLIES ]-----------------------//
 
