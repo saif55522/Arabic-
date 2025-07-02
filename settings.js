@@ -1,12 +1,12 @@
 //-------------------[ BOT SETTINGS ]------------------// 
 
-// @project_name : Jinwoo
+// @project_name : اެݪـقِـاެضِـيَ|𝐴𝐿𝑄𝐴𝐷𝑌 𖣩:-) §
 // @author : Malvin
 // @youtube : https://www.youtube.com/@malvintech2
 // @instagram : techlord01
-// @telegram : t.me/malvinking2
+// @telegram : t.me/x_r_j88/6
 // @github : xdking2
-// @whatsapp : +263714757857
+// @whatsapp : +967714585737
 
 //----------------------[ Jinwoo ]----------------------//
 
@@ -22,29 +22,29 @@ global.SESSION_ID = process.env.SESSION_ID || ''
 
 //--------------------[ BOT NAME ]----------------------//
 
-global.botname = process.env.BOT_NAME || 'ᴊɪɴᴡᴏᴏ-ʙᴏᴛ' 
+global.botname = process.env.BOT_NAME || 'اެݪـقِـاެضِـيَ|𝐴𝐿𝑄𝐴𝐷𝑌 𖣩:-) §' 
 
 //-----------------[ OWNER NUMBER ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '263780166288' 
+global.ownernumber = process.env.OWNER_NUMBER || '967714585737' 
 
 //--------------------[ SUDO ]--------------------------//
 
-global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['263714757857', '263780934873'];
+global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['994409465694', '967714585737'];
 // Type additional allowed users here
 //NB: They'll be able to use every functions of the bot without restrictions.
 
 //-----------------[ OWNER NAME ]------------------//
 
-global.ownername = process.env.OWNER_NAME || 'ᴍᴀʟᴠɪɴ ᴋɪɴɢ' 
+global.ownername = process.env.OWNER_NAME || 'اެݪـقِـاެضِـيَ|𝐴𝐿𝑄𝐴𝐷𝑌 𖣩:-) §' 
 
 //------------[ STICKER PACKNAME ]-----------------//
 
-global.packname = process.env.STICKER_PACK_NAME || "jinwoo" 
+global.packname = process.env.STICKER_PACK_NAME || "اެݪـقِـاެضِـيَ|𝐴𝐿𝑄𝐴𝐷𝑌 𖣩:-) §" 
 
 //--------------[ STICKER AUTHOR NAME ]------------//
 
-global.author = process.env.STICKER_AUTHOR_NAME || "sung" 
+global.author = process.env.STICKER_AUTHOR_NAME || "اެݪـقِـاެضِـيَ|𝐴𝐿𝑄𝐴𝐷𝑌 𖣩:-) §" 
 
 //-------------------[ BOT'S PREFIX ]--------------------//
 
@@ -52,7 +52,7 @@ global.prefixz = process.env.BOT_PREFIX || '.'
 
 //-----------------[ BOT'S MODE ]-----------------------//
 
-global.mode = process.env.MODE || 'public';
+global.mode = process.env.MODE || 'private';
 // Set 'private' to enable private mode
 // Set 'public' to enable public mode
 // Set 'group' to enable only group
@@ -60,7 +60,7 @@ global.mode = process.env.MODE || 'public';
 
 //----------[ STATUS REACTION EMOJI ]--------------//
 
-global.statusemoji = process.env.STATUS_EMOJI || '🧡'
+global.statusemoji = process.env.STATUS_EMOJI || '💚'
 
 //---------------[ AUTO VIEW STATUS ]---------------//
 
